@@ -1,0 +1,77 @@
+
+PERSONAL MINI-TOOLKIT PROJECT PLAN
+
+PROJECT TITLE:
+My Personal Mini-Toolkit
+
+PROJECT DESCRIPTION:
+My Personal Mini-Toolkit is a menu-driven Python program that provides four useful tools. Users can choose a tool, use it, and return to the main menu until they decide to quit.
+
+TOOL 1: SIMPLE CALCULATOR
+Description:
+This tool allows users to add, subtract, multiply, and divide two numbers.
+
+Concepts used:
+- Variables
+- User input and output
+- If, elif, and else statements
+- F-strings
+- Exception handling
+
+TOOL 2: NUMBER GUESSING GAME
+Description:
+This tool allows users to guess a randomly generated number between 1 and 10 until they get the correct answer.
+
+Concepts used:
+- Variables
+- While loops
+- If, elif, and else statements
+- Random numbers
+- F-strings
+
+TOOL 3: TO-DO LIST MANAGER
+Description:
+This tool allows users to add new tasks, view existing tasks, and remove tasks from a shopping-style task list.
+
+Concepts used:
+- Python lists
+- Append and remove methods
+- For loops
+- While loops
+- Conditional statements
+- F-strings
+
+TOOL 4: NAME FORMATTER
+Description:
+This tool allows users to enter their full name and displays it in uppercase, lowercase, and title case.
+
+Concepts used:
+- Variables
+- Strings
+- Input and output
+- F-strings
+
+EXACT MAIN MENU TEXT:
+
+========================================
+       MY PERSONAL MINI-TOOLKIT
+========================================
+1. Simple Calculator
+2. Number Guessing Game
+3. To-Do List Manager
+4. Name Formatter
+5. Quit
+
+Enter your choice (1-5):
+
+PROGRAM FLOW:
+1. Display a welcome message.
+2. Display the main menu.
+3. Ask the user to select a tool.
+4. Use if, elif, and else to process the selection.
+5. Run the selected tool.
+6. Return to the main menu after each tool.
+7. Exit when the user chooses Quit.
+
+EXPECTED OUTCOME:
+The program will demonstrate variables, input, output, conditionals, loops, lists, functions, comments, and f-strings. It will be simple, interactive, and user-friendly.
